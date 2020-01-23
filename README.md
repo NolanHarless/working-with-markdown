@@ -1,3 +1,26 @@
+# Main heading demonstration 
+## Sub heading demonstration
+
+1. List example 1
+2. List example 2
+
+* unordered list example 1
+* unordered list example 2
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Fuzzy_Freddy.jpg">
+
+* Fox image source url credit : https://upload.wikimedia.org/wikipedia/commons/f/fd/Fuzzy_Freddy.jpg
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Blandford%27s_fox_1.jpg">
+
+* Fox image 2 source url credit : https://upload.wikimedia.org/wikipedia/commons/e/eb/Blandford%27s_fox_1.jpg
+
+- [LinkedIn Profile Link 1](https://www.linkedin.com/in/nolanharless/")
+- [GitHub Profile Link 2](https://github.com/NolanHarless")
+- [Northwest College Site Link 3](www.nwmissouri.edu")
+
+
+
 # Working with Markdown
 
 > A short README.md that explains how to get started with Markdown, a super-simple markup language for web pages
